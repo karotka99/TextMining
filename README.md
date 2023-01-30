@@ -31,3 +31,7 @@ Here You can find my projects which are connected to Text Mining.
 - Extraction of the top 10 most frequent tokens
 - Finding the top 10 documents that contain the most tokens
 
+### Lab5:
+- Library `matplotlib`
+- Visualisation of top10
+- Using `prettytable` and visualising top10 tokens in prettytables
