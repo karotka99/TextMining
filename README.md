@@ -35,3 +35,12 @@ Here You can find my projects which are connected to Text Mining.
 - Library `matplotlib`
 - Visualisation of top10
 - Using `prettytable` and visualising top10 tokens in prettytables
+
+
+### Lab6:
+- Joining DataFrames
+- Library `sklearn`
+- Dividing into train and test set
+- Vectorizing sets using previously written functions
+- Training and classify using DecissionTree, RandomForest, SVM, AdaBoost, Bagging
+- Classification evaluation
